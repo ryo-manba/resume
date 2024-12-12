@@ -22,7 +22,7 @@
 
 ## Work Experience
 
-### Cybozu (2023/04 - Present) Frontend Engineer
+### Cybozu (2023/04 - 2024/10) Frontend Engineer
 
 Part of the [Frontend Renewal Project](https://blog.cybozu.io/entry/2023/09/25/080000) for Cybozu Office.
 
