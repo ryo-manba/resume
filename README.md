@@ -4,19 +4,20 @@
 
 ## Basic Information
 
-| Key         | Value                                       |
-| ----------- | ------------------------------------------- |
-| Name        | Ryo Matsukawa                               |
-| GitHub      | [＠ryo-manba](https://github.com/ryo-manba) |
-| X (Twitter) | [@ryo_manba](https://x.com/ryo_manba)       |
-| LinkedIn    | [@ryo-manba](https://www.linkedin.com/in/ryo-manba/) |
-| Zenn        | [@ryo_manba](https://zenn.dev/ryo_manba)    |
-| SpeakerDeck | [@ryo_manba](https://speakerdeck.com/ryo_manba) |
+| Key         | Value                                                                  |
+| ----------- | ---------------------------------------------------------------------- |
+| Name        | Ryo Matsukawa                                                          |
+| GitHub      | [＠ryo-manba](https://github.com/ryo-manba)                            |
+| X (Twitter) | [@ryo_manba](https://x.com/ryo_manba)                                  |
+| LinkedIn    | [@ryo-manba](https://www.linkedin.com/in/ryo-manba/)                   |
+| Zenn        | [@ryo_manba](https://zenn.dev/ryo_manba)                               |
+| SpeakerDeck | [@ryo_manba](https://speakerdeck.com/ryo_manba)                        |
 | Blog        | [https://ryo-manba.hatenablog.com/](https://ryo-manba.hatenablog.com/) |
 
 ## OSS Contributions
 
 - [NextUI](https://github.com/nextui-org/nextui) (Team Member)
+- [Stylelint](https://github.com/stylelint/stylelint) (Team Member)
 - [React Spectrum](https://github.com/adobe/react-spectrum) (Contributor)
 - [More Projects](https://github.com/ryo-manba)
 

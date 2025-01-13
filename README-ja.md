@@ -4,20 +4,20 @@
 
 ## 基本情報
 
-| key         | value                                       |
-| ----------- | ------------------------------------------- |
-| 氏名         | 松川 陵 (Ryo Matsukawa)                     |
-| GitHub      | [＠ryo-manba](https://github.com/ryo-manba) |
-| X           | [@ryo_manba](https://x.com/ryo_manba)       |
-| LinkedIn    | [@ryo-manba](https://www.linkedin.com/in/ryo-manba/) |
-| Zenn        | [@ryo_manba](https://zenn.dev/ryo_manba)    |
-| SpeakerDeck | [@ryo_manba](https://speakerdeck.com/ryo_manba) |
+| key         | value                                                                  |
+| ----------- | ---------------------------------------------------------------------- |
+| 氏名        | 松川 陵 (Ryo Matsukawa)                                                |
+| GitHub      | [＠ryo-manba](https://github.com/ryo-manba)                            |
+| X           | [@ryo_manba](https://x.com/ryo_manba)                                  |
+| LinkedIn    | [@ryo-manba](https://www.linkedin.com/in/ryo-manba/)                   |
+| Zenn        | [@ryo_manba](https://zenn.dev/ryo_manba)                               |
+| SpeakerDeck | [@ryo_manba](https://speakerdeck.com/ryo_manba)                        |
 | Blog        | [https://ryo-manba.hatenablog.com/](https://ryo-manba.hatenablog.com/) |
-
 
 ## OSS
 
-- [NextUI](https://github.com/nextui-org/nextui) (チームメンバー)
+- [NextUI](https://github.com/nextui-org/nextui) (メンバー)
+- [Stylelint](https://github.com/stylelint/stylelint) (メンバー)
 - [React Spectrum](https://github.com/adobe/react-spectrum) (コントリビュータ)
 - [その他のプロジェクト](https://github.com/ryo-manba)
 
@@ -32,8 +32,7 @@
 - Testing Library を利用した単体テストの実装、Playwright を利用した E2E テストの実装
 - 社外発信: [サイボウズ Office のフロントエンド刷新におけるアクセシビリティ改善の取り組み](https://blog.cybozu.io/entry/2023/12/01/080000)
 
-React Aria に率先してコントリビューションし、チーム内での運用支援やサポート、全面導入に関わる。アクセシビリティの改善にも力を入れ、読み上げやキーボードサポートにも対応したコンポーネントの実装を作成した。3人チームのリードを経験し、技術的な課題の支援や状況確認を行う。
-
+React Aria に率先してコントリビューションし、チーム内での運用支援やサポート、全面導入に関わる。アクセシビリティの改善にも力を入れ、読み上げやキーボードサポートにも対応したコンポーネントの実装を作成した。3 人チームのリードを経験し、技術的な課題の支援や状況確認を行う。
 
 ## 資格など
 
