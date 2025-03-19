@@ -25,7 +25,7 @@
 
 ### Mercari (2024/10 ~ present) Frontend Engineer
 
-Part of the [Frontend Team](https://blog.cybozu.io/entry/2023/09/25/080000) for Mercari Hallo.
+Part of the [Frontend Team](https://engineering.mercari.com/blog/entry/20240613-mercari-hallo-web-frontend/) for Mercari Hallo.
 
 ### Cybozu (2023/04 - 2024/10) Frontend Engineer
 
