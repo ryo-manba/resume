@@ -6,7 +6,7 @@
 
 | key         | value                                                                  |
 | ----------- | ---------------------------------------------------------------------- |
-| 氏名        | 松川 陵 (Ryo Matsukawa)                                                |
+| 氏名        | 松川 陵 (Matsukawa Ryo)                                                |
 | GitHub      | [＠ryo-manba](https://github.com/ryo-manba)                            |
 | X           | [@ryo_manba](https://x.com/ryo_manba)                                  |
 | LinkedIn    | [@ryo-manba](https://www.linkedin.com/in/ryo-manba/)                   |
@@ -16,8 +16,8 @@
 
 ## OSS
 
-- [NextUI](https://github.com/nextui-org/nextui) (メンバー)
 - [Stylelint](https://github.com/stylelint/stylelint) (メンバー)
+- [HeroUI](https://github.com/heroui-inc/heroui) (コラボレータ)
 - [React Spectrum](https://github.com/adobe/react-spectrum) (コントリビュータ)
 - [その他のプロジェクト](https://github.com/ryo-manba)
 

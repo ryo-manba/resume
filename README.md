@@ -16,8 +16,8 @@
 
 ## OSS Contributions
 
-- [NextUI](https://github.com/nextui-org/nextui) (Team Member)
-- [Stylelint](https://github.com/stylelint/stylelint) (Team Member)
+- [Stylelint](https://github.com/stylelint/stylelint) (Member)
+- [HeroUI](https://github.com/heroui-inc/heroui) (Collaborator)
 - [React Spectrum](https://github.com/adobe/react-spectrum) (Contributor)
 - [More Projects](https://github.com/ryo-manba)
 
