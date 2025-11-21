@@ -16,6 +16,7 @@
 
 ## OSS Contributions
 
+- [pnpm](http://github.com/pnpm/pnpm) (Member)
 - [Stylelint](https://github.com/stylelint/stylelint) (Member)
 - [HeroUI](https://github.com/heroui-inc/heroui) (Collaborator)
 - [React Spectrum](https://github.com/adobe/react-spectrum) (Contributor)

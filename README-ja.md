@@ -16,6 +16,7 @@
 
 ## OSS
 
+- [pnpm](http://github.com/pnpm/pnpm) (メンバー)
 - [Stylelint](https://github.com/stylelint/stylelint) (メンバー)
 - [HeroUI](https://github.com/heroui-inc/heroui) (コラボレータ)
 - [React Spectrum](https://github.com/adobe/react-spectrum) (コントリビュータ)
