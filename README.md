@@ -24,9 +24,22 @@
 
 ## Work Experience
 
-### Mercari (2024/10 ~ present) Frontend Engineer
+### Mercari (2024/10 ~ present)
 
-Part of the [Frontend Team](https://engineering.mercari.com/blog/entry/20240613-mercari-hallo-web-frontend/) for Mercari Hallo.
+#### Merpay (2026/02 ~ present) Software Engineer
+
+Development of [Engagement Platform](https://engineering.mercari.com/blog/entry/20241210-f7c478382a/), an internal marketing tool featuring a WYSIWYG web page builder.
+
+#### Mercoin (2025/12 - 2026/02) Frontend Engineer
+
+Frontend development for Mercari NFT and Mercoin CS Tool.
+
+#### Mercari Hallo (2024/10 - 2025/12) Frontend Engineer
+
+Part of the [Frontend Team](https://engineering.mercari.com/blog/entry/20240613-mercari-hallo-web-frontend/) for Mercari Hallo. Led the technical development of WorkTab, a WebView-based tab displayed at the bottom of the Mercari app.
+
+- Tech stack: Next.js App Router, GraphQL, WebView
+- Published an article: [Mercari Hallo Frontend Improvements](https://engineering.mercari.com/blog/entry/20251205-mercari-hallo-frontend-improvements/)
 
 ### Cybozu (2023/04 - 2024/10) Frontend Engineer
 

@@ -24,9 +24,21 @@
 
 ## 職務経歴
 
-### Mercari (2024/10 ~) フロントエンドエンジニア
+### Mercari (2024/10 ~)
 
-メルカリ ハロの [Web フロントエンドチーム](https://engineering.mercari.com/blog/entry/20240613-mercari-hallo-web-frontend/)に所属。
+#### Merpay (2026/02 ~) ソフトウェアエンジニア
+
+WYSIWYG ウェブページビルダーや Server Driven UI を備えた社内マーケティングツール [Engagement Platform](https://engineering.mercari.com/blog/entry/20241210-f7c478382a/) の開発。
+
+#### Mercoin (2025/12 - 2026/02) フロントエンドエンジニア
+
+メルカリ NFT の新規開発・メルコインの CS Tool のフロントエンド開発。
+
+#### メルカリ ハロ (2024/10 - 2025/12) フロントエンドエンジニア
+
+- メルカリ ハロの [Web フロントエンドチーム](https://engineering.mercari.com/blog/entry/20240613-mercari-hallo-web-frontend/)に所属。メルカリアプリの下タブに WebView で表示するはたらくタブの技術的な開発をリード。
+- 技術スタック: Next.js App Router, GraphQL, WebView
+- 社外発信: [メルカリ ハロ Webフロントエンドの改善についての取り組み](https://engineering.mercari.com/blog/entry/20251205-mercari-hallo-frontend-improvements/)
 
 ### Cybozu (2023/04 - 2024/10) フロントエンドエンジニア
 
