@@ -14,6 +14,15 @@
 | SpeakerDeck | [@ryo_manba](https://speakerdeck.com/ryo_manba)                        |
 | Blog        | [https://ryo-manba.hatenablog.com/](https://ryo-manba.hatenablog.com/) |
 
+## スキル
+
+- **Languages**: HTML / CSS / JavaScript / TypeScript / Go / Python
+- **Frontend**: React / Next.js / Web Components / TailwindCSS / Accessibility / WebView / ESLint / Playwright / Jest / Vitest
+- **Backend**: GraphQL / tRPC / Firestore / Spanner
+- **Mobile**: React Native / Expo
+- **Infrastructure**: Docker / docker-compose / Terraform / Datadog / GitHub Actions
+- **AI**: OpenAI API / LiteLLM / Mastra / n8n / MCP / Agent Skills
+
 ## OSS
 
 - [pnpm](http://github.com/pnpm/pnpm) (メンバー)
