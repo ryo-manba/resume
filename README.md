@@ -50,6 +50,15 @@ Part of the [Frontend Team](https://engineering.mercari.com/blog/entry/20240613-
 - Tech stack: Next.js App Router, GraphQL, WebView
 - Published an article: [Mercari Hallo Frontend Improvements](https://engineering.mercari.com/blog/entry/20251205-mercari-hallo-frontend-improvements/)
 
+### HeroUI (2024/03 - 2025/03) Frontend Engineer (Part-time)
+
+Worked remotely on the development of a [React component library](https://www.heroui.com/) at [HeroUI](https://github.com/heroui-inc) (YC S24).
+
+- Contributed to [React Aria major upgrade](https://github.com/heroui-inc/heroui/pull/2561), [React 19 / Next.js 15 support](https://github.com/heroui-inc/heroui/pull/3732), [Form component implementation](https://github.com/heroui-inc/heroui/pull/3036), [Date component enhancements](https://github.com/heroui-inc/heroui/pull/3248), and [accessibility improvements](https://github.com/heroui-inc/heroui/pull/3470)
+- Worked on frontend development of [Zigma](https://fondo.com/blog/zigma-launches), a platform for syncing design and code
+- Contributed to community operations through PR reviews, issue triage, Discord Q&A support, and HeroUI Pro user assistance
+- Tech stack: React, TailwindCSS, React Aria
+
 ### Cybozu (2023/04 - 2024/10) Frontend Engineer
 
 Part of the [Frontend Renewal Project](https://blog.cybozu.io/entry/2023/09/25/080000) for Cybozu Office.

@@ -49,6 +49,15 @@ WYSIWYG ウェブページビルダーや Server Driven UI を備えた社内マ
 - 技術スタック: Next.js App Router, GraphQL, WebView
 - 社外発信: [メルカリ ハロ Webフロントエンドの改善についての取り組み](https://engineering.mercari.com/blog/entry/20251205-mercari-hallo-frontend-improvements/)
 
+### HeroUI (2024/03 - 2025/03) フロントエンドエンジニア（副業）
+
+[HeroUI](https://github.com/heroui-inc) (YC S24) にてリモートで [React コンポーネントライブラリ](https://www.heroui.com/)の開発に従事。
+
+- [React Aria のメジャーアップグレード](https://github.com/heroui-inc/heroui/pull/2561)や [React 19 / Next.js 15 対応](https://github.com/heroui-inc/heroui/pull/3732)、[Form コンポーネントの新規実装](https://github.com/heroui-inc/heroui/pull/3036)、[Date 系コンポーネントの機能拡充](https://github.com/heroui-inc/heroui/pull/3248)、[アクセシビリティ改善](https://github.com/heroui-inc/heroui/pull/3470)などを行った
+- デザインとコードの同期プラットフォーム [Zigma](https://fondo.com/blog/zigma-launches) のフロントエンド開発にも従事
+- PR レビューや Issue のトリアージ、Discord での Q&A 対応や HeroUI Pro ユーザーへのサポートなど、コミュニティの運営にも貢献
+- 技術スタック: React, TailwindCSS, React Aria
+
 ### Cybozu (2023/04 - 2024/10) フロントエンドエンジニア
 
 サイボウズ Office の[フロントエンド刷新プロジェクト](https://blog.cybozu.io/entry/2023/09/25/080000)に所属。
